@@ -1,11 +1,8 @@
 # InfinityOS
-Cosmos based C# operating system.
 
-### Requirements
-* Required RAM memory: `16MB`
-* Required disk space: `64MB`
-
-### Tasklist
-* ~~Basic design (login, installation & desktop)~~
-* System kernel
-* Basic applications (calculator, terminal, notepad)
+### Our team
+CEO: Natan Lipinski (Titon)
+Design: Natan Lipinski
+Code (C#): Natan Lipinski
+Code (ASM):
+Website & blog: Natan Lipinski
